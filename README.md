@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @maedl
-- 🌱 Currently studying web development
-- 📫 How to reach me? max.edlund@medieinstitutet.se
+- Developer with frontend focus
+- 📫 How to reach me? max.edlund@newsmachine.com
 
 <!---
 maedl/maedl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
