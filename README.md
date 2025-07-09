@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @maedl
-- Developer with frontend focus
-- 📫 How to reach me? max.edlund@newsmachine.com
+- Fullstack TypeScript Dev. 
+- 📫 max.edlund@puffer.se
 
 <!---
 maedl/maedl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
